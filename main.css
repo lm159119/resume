@@ -131,7 +131,6 @@ width: 70%; border-radius: 2px; transform: translateX(0); transition: all 1s; }
 section.skills.offset .progress{
   transform: translateX(-100%);
 }
-
 section.portfolio { text-align: center; margin-bottom: 100px; max-width: 720px;} 
 section.portfolio h2{ margin-bottom: 32px; } 
 section.portfolio .swiper-container { width: 668px; height: 501px; }
@@ -145,12 +144,6 @@ section.portfolio .swiper-button-next{
   border-radius: 50%;
   }
 section.portfolio .swiper-button-next{ left: 100%;right: auto; }
-
-
-
-
-
-
 section.message > ol{
   max-width: 700px;
   margin: 0 auto;
