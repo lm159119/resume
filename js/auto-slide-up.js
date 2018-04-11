@@ -20,7 +20,7 @@
       }
     }
     // minIndex 就是里窗口顶部最近的元素
-    specialTags[minIndex].classList.remove('offset')
+    specialTags[minIndex].classList.remove('offset');
     let id = specialTags[minIndex].id
     let a = document.querySelector('a[href="#'+ id + '"]')
     let li = a.parentNode
